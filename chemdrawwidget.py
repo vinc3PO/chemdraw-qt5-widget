@@ -98,13 +98,8 @@ def get_cdx_ctl_key(reg_path):
     return result
 
 
-
-def test():
+if __name__ == '__main__':
     app = QApplication([])
     table = ChemDrawWidget()
     table.show()
     app.exec_()
-
-
-if __name__ == '__main__':
-    test()
