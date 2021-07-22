@@ -1,6 +1,6 @@
-# chemdraw-qt5-widget
+# chemdraw-pyqt5-widget
 
-Simple pyqt5 example of Perkin Elmer ChemDraw widget. 
+Simple pyqt5 example of PerkinElmer ChemDraw widget. 
 
 A walkthrough can be found here:
 
